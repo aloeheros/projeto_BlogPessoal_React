@@ -1,0 +1,15 @@
+.pointer{
+    cursor:pointer;
+    color:white;
+}
+
+
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.caixa{
+    display: flex;
+    justify-content: space-between;
+}
